@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\work\003.SDK\Xim-SDK\Release\Custerm002\sample\xdevice-api\src\main\shaders"/></dataSet><dataSet config="release"><source path="C:\work\003.SDK\Xim-SDK\Release\Custerm002\sample\xdevice-api\src\release\shaders"/></dataSet></merger>
